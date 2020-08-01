@@ -1,3 +1,3 @@
 *.beam
-ErlangTAGS
-ProjectTAGS
+TAGS
+lib_otp
