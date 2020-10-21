@@ -2,5 +2,5 @@
 
 CWD=`pwd`
 
-# Produce TAGS
+# Produce Project TAGS
 find -L ${CWD} -name "*.[he]rl" | etags -o TAGS -
