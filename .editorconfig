@@ -1,7 +1,0 @@
-# EditorConfig is awesome: https://EditorConfig.org
-root = true
-
-[*.{erl,hrl,src,escript,config}]
-indent_style = space
-indent_size = 4
-max_line_length = 80
